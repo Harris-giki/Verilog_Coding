@@ -1,0 +1,1 @@
+Memories are digital storage elements that help store a data and information in digital circuits. RAMs and ROMs are good examples of such memory elements. Storage elements can be modeled using one-dimensional arrays of type 'reg' and is called a memory. Each element in the memory may represent a word and is referenced using a single array index.
