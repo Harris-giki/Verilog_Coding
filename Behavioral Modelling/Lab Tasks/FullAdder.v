@@ -8,6 +8,6 @@ module full_Adder(
 
 always @ (A or B or Cin)
 begin
-    (Cout, Sum)=A+B+Cin;
+    {Cout, Sum}=A+B+Cin;
 end
 endmodule
